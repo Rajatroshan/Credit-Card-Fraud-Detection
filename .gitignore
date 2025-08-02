@@ -1,0 +1,19 @@
+# Ignore dataset CSV
+archive/creditcard.csv
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
